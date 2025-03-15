@@ -1,0 +1,3 @@
+streamlit
+pyautogui
+screen_brightness_control
